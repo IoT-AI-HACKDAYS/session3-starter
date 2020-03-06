@@ -1,1 +1,2 @@
-# session3-starter
+# iot-edge-starter
+IoT Hackdays Session3 Starter solution
